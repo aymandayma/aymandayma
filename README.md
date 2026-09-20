@@ -10,11 +10,10 @@
 
   <h1>Hi 👋, I'm Ayman Dayma</h1>
 
-  <h3>Frontend Developer • Full Stack Developer in Progress</h3>
+  <h3>Frontend Developer • A Final Year Diploma Student At BBIT</h3>
 
   <p>
-    Building web experiences, learning new technologies,<br/>
-    and turning ideas into real-world projects.
+    For Now Limited Till Web Technologies , Learning New Skills
   </p>
 
   <p>
